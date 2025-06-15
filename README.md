@@ -60,25 +60,16 @@ Open the R script
 Run the script
 You will be prompted to enter a year (between 2010 and 2024). The script calculates the volume and proceeds to scrape all articles in that volume.
 
-## Output
-
-CSV file: final_scraped_data.csv
-
-Visualizations displayed in R:
-- Publication trends over time
-- Top corresponding authors
-- Top keywords
-
 ## Visualizations
 
 ### Publication Trends Over Time
 Shows the number of articles published each month over time.
-![Publication Trends](images/image1.png)
+![Publication Trends](https://github.com/TejasW03/Webscraper-Mobile-DNA-Journal/blob/main/images/image1.PNG?raw=true)
 
 ### Top 10 Corresponding Authors
 Most prolific authors based on article count.
-![Top Authors](images/top_authors.png)
+![Top Authors]([images/top_authors.png](https://github.com/TejasW03/Webscraper-Mobile-DNA-Journal/blob/main/images/image2.PNG?raw=true))
 
 ### Top 10 Keywords
 Most common keywords used in Mobile DNA publications.
-![Top Keywords](images/top_keywords.png)
+![Top Keywords](https://github.com/TejasW03/Webscraper-Mobile-DNA-Journal/blob/main/images/image3.PNG?raw=true)
