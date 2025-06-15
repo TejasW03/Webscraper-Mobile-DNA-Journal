@@ -68,7 +68,7 @@ Shows the number of articles published each month over time.
 
 ### Top 10 Corresponding Authors
 Most prolific authors based on article count.
-![Top Authors]([images/top_authors.png](https://github.com/TejasW03/Webscraper-Mobile-DNA-Journal/blob/main/images/image2.PNG?raw=true))
+![Top Authors](https://github.com/TejasW03/Webscraper-Mobile-DNA-Journal/blob/main/images/image2.PNG?raw=true)
 
 ### Top 10 Keywords
 Most common keywords used in Mobile DNA publications.
